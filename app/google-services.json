@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446916956888",
+    "firebase_url": "https://teste-de-agendamento.firebaseio.com",
+    "project_id": "teste-de-agendamento",
+    "storage_bucket": "teste-de-agendamento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446916956888:android:504f1f6c121c747cdebdad",
+        "android_client_info": {
+          "package_name": "com.exemple.testedeagendamento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446916956888-31p5f24m8i6vgc24krqte17vgr5c3sfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exemple.testedeagendamento",
+            "certificate_hash": "725bff6ad9f17963ab0d29d278a867017667bd13"
+          }
+        },
+        {
+          "client_id": "446916956888-ogdp1qhnub31jmcrrv5sbvbdd0q8sie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFat8MY5gEF8JdtGhPQHxzhSQqcxwbcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446916956888-ogdp1qhnub31jmcrrv5sbvbdd0q8sie4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
